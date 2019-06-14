@@ -9,3 +9,4 @@ Bagpipe.limitify = function (asyncCall, bagpipe) {
 };
 
 module.exports = Bagpipe;
+window.Bagpipe = Bagpipe;
